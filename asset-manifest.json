@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/axelme28/my-portfolio-web/static/css/main.73521adc.css",
+    "main.js": "/axelme28/my-portfolio-web/static/js/main.127856bc.js",
+    "static/media/hero.svg": "/axelme28/my-portfolio-web/static/media/hero.5c8568c2804287a7649865cf23368e5f.svg",
+    "static/media/avataaars.svg": "/axelme28/my-portfolio-web/static/media/avataaars.1452a3553587b1fdf2036f1ad5888db4.svg",
+    "static/media/computer.svg": "/axelme28/my-portfolio-web/static/media/computer.924c10bffac7b91b6ba8347959ecadbe.svg",
+    "static/media/web-design.svg": "/axelme28/my-portfolio-web/static/media/web-design.c4d107e1c3a40641e4a7ca07a40bad53.svg",
+    "index.html": "/axelme28/my-portfolio-web/index.html",
+    "main.73521adc.css.map": "/axelme28/my-portfolio-web/static/css/main.73521adc.css.map",
+    "main.127856bc.js.map": "/axelme28/my-portfolio-web/static/js/main.127856bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73521adc.css",
+    "static/js/main.127856bc.js"
+  ]
+}
