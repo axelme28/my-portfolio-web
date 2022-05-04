@@ -1,5 +1,5 @@
 {
-    "homepage": "http://{username}.github.io/{repo-name}",
+    "homepage": "https://github.com/axelme28/my-portfolio-web",
     "name": "my-portfolio-web",
     "version": "0.1.0",
     "private": true,
@@ -17,6 +17,8 @@
         "web-vitals": "^2.1.4"
     },
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
